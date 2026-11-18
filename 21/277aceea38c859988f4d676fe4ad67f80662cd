@@ -1,0 +1,24 @@
+src/assets/names/CA.json
+  h_d835bf96e9a096 1-903
+src/export/paperbackPdf.ts
+  h_d835bf96e9a096 64-65,68
+src/i18n/ca.ts
+  h_d835bf96e9a096 1-4239
+src/i18n/langs.ts
+  h_d835bf96e9a096 15,37
+src/typoRules.ts
+  h_d835bf96e9a096 8-9,12,14,32,77-86,90-99,165
+src/typography.ts
+  h_d835bf96e9a096 61-67,74,77-81,83-87,104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "21277aceea38c859988f4d676fe4ad67f80662cd",
+  "prompts": {},
+  "humans": {
+    "h_d835bf96e9a096": {
+      "author": "Aitor Cereceto <cereender@gmail.com>"
+    }
+  }
+}
