@@ -1,0 +1,14 @@
+src/export/paperbackPdf.ts
+  h_d835bf96e9a096 65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ac39a2f75b6c34e805edad91c964973aac5f5a46",
+  "prompts": {},
+  "humans": {
+    "h_d835bf96e9a096": {
+      "author": "Aitor Cereceto <cereender@gmail.com>"
+    }
+  }
+}
