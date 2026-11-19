@@ -1,0 +1,16 @@
+src/export/hyphenRules/ca.ts
+  h_d835bf96e9a096 1-82
+src/export/paperbackPdf.ts
+  h_d835bf96e9a096 65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bb334c669dcd6de94de7cc55447a311f22a5df40",
+  "prompts": {},
+  "humans": {
+    "h_d835bf96e9a096": {
+      "author": "Aitor Cereceto <cereender@gmail.com>"
+    }
+  }
+}
